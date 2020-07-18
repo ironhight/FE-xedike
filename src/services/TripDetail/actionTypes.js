@@ -1,0 +1,1 @@
+export const GET_DETAIL_TRIP = 'GET_DETAIL_TRIP';

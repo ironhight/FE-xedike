@@ -1,0 +1,1 @@
+export const BOOKING_TRIPS = 'BOOKING_TRIPS';
